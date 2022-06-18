@@ -1,0 +1,15 @@
+C:\dev\OOP\MethodsOfClasses\bin\Debug\net6.0\MethodsOfClasses.exe
+C:\dev\OOP\MethodsOfClasses\bin\Debug\net6.0\MethodsOfClasses.deps.json
+C:\dev\OOP\MethodsOfClasses\bin\Debug\net6.0\MethodsOfClasses.runtimeconfig.json
+C:\dev\OOP\MethodsOfClasses\bin\Debug\net6.0\MethodsOfClasses.dll
+C:\dev\OOP\MethodsOfClasses\bin\Debug\net6.0\MethodsOfClasses.pdb
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.csproj.AssemblyReference.cache
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.AssemblyInfoInputs.cache
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.AssemblyInfo.cs
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.csproj.CoreCompileInputs.cache
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.dll
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\refint\MethodsOfClasses.dll
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.pdb
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\MethodsOfClasses.genruntimeconfig.cache
+C:\dev\OOP\MethodsOfClasses\obj\Debug\net6.0\ref\MethodsOfClasses.dll

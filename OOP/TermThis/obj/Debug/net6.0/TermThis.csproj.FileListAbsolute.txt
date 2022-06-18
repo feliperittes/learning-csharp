@@ -1,0 +1,15 @@
+C:\dev\OOP\TermThis\bin\Debug\net6.0\TermThis.exe
+C:\dev\OOP\TermThis\bin\Debug\net6.0\TermThis.deps.json
+C:\dev\OOP\TermThis\bin\Debug\net6.0\TermThis.runtimeconfig.json
+C:\dev\OOP\TermThis\bin\Debug\net6.0\TermThis.dll
+C:\dev\OOP\TermThis\bin\Debug\net6.0\TermThis.pdb
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.csproj.AssemblyReference.cache
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.AssemblyInfoInputs.cache
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.AssemblyInfo.cs
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.csproj.CoreCompileInputs.cache
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.dll
+C:\dev\OOP\TermThis\obj\Debug\net6.0\refint\TermThis.dll
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.pdb
+C:\dev\OOP\TermThis\obj\Debug\net6.0\TermThis.genruntimeconfig.cache
+C:\dev\OOP\TermThis\obj\Debug\net6.0\ref\TermThis.dll
