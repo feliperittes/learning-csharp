@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\dev\\AprendendoCsharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\dev\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectPath": "C:\\dev\\AprendendoCsharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CursoCSharp\\CursoCSharp\\obj\\",
+      "outputPath": "C:\\dev\\AprendendoCsharp\\CursoCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace CursoCSharp.ClassesEMetodos
 {
     class Carro
-    {
+    {   
+        //Atributos
         public string Modelo;
         public string Fabricante;
         public int Ano;
 
+        //Construtor personalizado quando implementado, o construtor padrão que é implicito se perde
         public Carro(string modelo, string fabricante, int ano)
         {
             Modelo = modelo;
@@ -19,14 +21,16 @@ namespace CursoCSharp.ClassesEMetodos
             Ano = ano;
         }
 
-        public Carro()
+        //Construtor padrão não recebe nada, é implicito que ele vai retornar uma instancia, tipo no qual ele pertence
+        public Carro()//construtor padrão tem que ser adcionado de forma explicita, quando adcionamos um construtor personalizado
         {
         }
     }
-    internal class Construtores
+    class Construtores
     {
         public static void Executar()
         {
+                                    //Construtor
             var primeiroCarro = new Carro();
             primeiroCarro.Fabricante = "BMW";
             primeiroCarro.Modelo = "325i";

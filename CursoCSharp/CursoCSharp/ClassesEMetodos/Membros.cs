@@ -16,12 +16,14 @@ namespace CursoCSharp.ClassesEMetodos
             sicrano.Zerar();
             sicrano.ApresentarNoConsole();
 
-
             var fulano = new Pessoa();
             fulano.Nome = "Isaac";
             fulano.Idade = 21;
             var aprensentacaoDoFulano = fulano.Apresentar();
-            Console.WriteLine(aprensentacaoDoFulano.Length);
+
+            //mostrar q quantidade de caracteres de fulano.Apresentar();
+            Console.WriteLine(aprensentacaoDoFulano.Length); 
+
             Console.WriteLine(aprensentacaoDoFulano);
         }
     }

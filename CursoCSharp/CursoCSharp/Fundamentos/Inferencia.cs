@@ -24,8 +24,6 @@ namespace CursoCSharp.Fundamentos
             int b = 1;
 
             Console.WriteLine(a + b);
-
-
         }
     }
 }

@@ -14,7 +14,7 @@ namespace CursoCSharp.ClassesEMetodos
             return a + b;
         }
 
-        //Metodo EStatico!!!
+        //Metodo Estatico!!!
         public static int Multiplicar(int a, int b)// acessivel a partir da classe // membro estatico pertence a classe
         {
             return a * b;
@@ -28,8 +28,8 @@ namespace CursoCSharp.ClassesEMetodos
             Console.WriteLine($"Resultado: {resultado}");
 
             CalculadoraEstatica calc = new CalculadoraEstatica();
-            Console.WriteLine(calc.Somar(1, 8));
-            Console.WriteLine(CalculadoraEstatica.Multiplicar(1, 8));
+            Console.WriteLine(calc.Somar(1, 8)); //Membro de instacia
+            Console.WriteLine(CalculadoraEstatica.Multiplicar(1, 8)); //Membro de Classe ou estatico
         }
     }
 }

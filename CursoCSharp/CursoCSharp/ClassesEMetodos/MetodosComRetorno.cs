@@ -54,11 +54,11 @@ namespace CursoCSharp.ClassesEMetodos
         public static void Executar()
         {
             var calculadoraComum = new CalculadoraComum();
-            var resultado = calculadoraComum.Somar(1, 2);
+            var resultado = calculadoraComum.Somar(5, 5);
 
             Console.WriteLine(resultado);
-            Console.WriteLine(calculadoraComum.Subtrair(10, 5));
-            Console.WriteLine(calculadoraComum.Multiplicar(10, 10));
+            Console.WriteLine(calculadoraComum.Subtrair(2, 7));
+            Console.WriteLine(calculadoraComum.Multiplicar(4, 4));
 
             var calculadoraCadeia = new CalculadoraCadeia();
             calculadoraCadeia.Somar(3).Multiplicar(3).Imprimir().Limpar().Imprimir();
