@@ -5,10 +5,10 @@
         public static void Main(string[] args)
         {
             Console.Write("Entre com seu nome completo: \n>");
-            string completeName = Console.ReadLine();
+            string fullName = Console.ReadLine();
 
             Console.Write("Quantos quartos tem na sua casa? \n>");
-            int roomQuantity = int.Parse(Console.ReadLine());
+            int bedRooms = int.Parse(Console.ReadLine());
 
             Console.Write("Entre com o preço do produto: \n>");
             double priceProduct = double.Parse(Console.ReadLine());
@@ -20,12 +20,12 @@
             int age = int.Parse(array[1]);
             double height = double.Parse(array[2]);
 
-            Console.WriteLine("\n" + completeName);
-            Console.WriteLine(roomQuantity);
+            Console.WriteLine("\n" + fullName);
+            Console.WriteLine(bedRooms);
             Console.WriteLine(priceProduct.ToString("C"));
             Console.WriteLine(lastName);
             Console.WriteLine(age);
-            Console.WriteLine(height);
+            Console.WriteLine(height.ToString("F2"));
             
             Console.ReadKey();
         }
