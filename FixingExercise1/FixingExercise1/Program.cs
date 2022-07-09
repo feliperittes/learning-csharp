@@ -22,11 +22,11 @@
 
             Console.WriteLine("\n" + completeName);
             Console.WriteLine(roomQuantity);
-            Console.WriteLine(priceProduct.ToString("c"));
+            Console.WriteLine(priceProduct.ToString("C"));
             Console.WriteLine(lastName);
             Console.WriteLine(age);
             Console.WriteLine(height);
-
+            
             Console.ReadKey();
         }
     }
