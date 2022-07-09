@@ -1,0 +1,15 @@
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\bin\Debug\net6.0\FixingExercise1.exe
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\bin\Debug\net6.0\FixingExercise1.deps.json
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\bin\Debug\net6.0\FixingExercise1.runtimeconfig.json
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\bin\Debug\net6.0\FixingExercise1.dll
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\bin\Debug\net6.0\FixingExercise1.pdb
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.csproj.AssemblyReference.cache
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.AssemblyInfoInputs.cache
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.AssemblyInfo.cs
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.csproj.CoreCompileInputs.cache
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.dll
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\refint\FixingExercise1.dll
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.pdb
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\FixingExercise1.genruntimeconfig.cache
+C:\dev\AprendendoCsharp\FixingExercise1\FixingExercise1\obj\Debug\net6.0\ref\FixingExercise1.dll
