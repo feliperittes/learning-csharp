@@ -1,0 +1,15 @@
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\bin\Debug\net6.0\Exercise01.exe
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\bin\Debug\net6.0\Exercise01.deps.json
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\bin\Debug\net6.0\Exercise01.runtimeconfig.json
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\bin\Debug\net6.0\Exercise01.dll
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\bin\Debug\net6.0\Exercise01.pdb
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.csproj.AssemblyReference.cache
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfoInputs.cache
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfo.cs
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.dll
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\refint\Exercise01.dll
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.pdb
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\Exercise01.genruntimeconfig.cache
+C:\dev\AprendendoCsharp\ConditionalExercises\Exercise01\obj\Debug\net6.0\ref\Exercise01.dll
