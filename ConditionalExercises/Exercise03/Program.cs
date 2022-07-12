@@ -4,6 +4,7 @@
     {
         public static void Main(string[] args)
         {
+            Console.Write("Insira dois numeros(mesma linha separe com a tecla espaço): ");
             string[] array = Console.ReadLine().Split(' ');
             int A = int.Parse(array[0]);
             int B = int.Parse(array[1]);

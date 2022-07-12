@@ -4,6 +4,7 @@
     {
         public static void Main(string[] args)
         {
+            Console.Write("Digite inicio do jogo e final (mesma linha separe com a tecla espaço): ");
             string[] array = Console.ReadLine().Split(' ');
             int beginningGame = int.Parse(array[0]);
             int endGame = int.Parse(array[1]);

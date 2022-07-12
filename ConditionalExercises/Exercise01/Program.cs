@@ -4,15 +4,16 @@
     {
         public static void Main(string[] args)
         {
+            Console.Write("Insira um numero: ");
             int number = int.Parse(Console.ReadLine());
 
             if (number % 2 == 0)
             {
-                Console.WriteLine("PAR");
+                Console.WriteLine($"NUMERO:{number} é PAR");
             }
             else
             {
-                Console.WriteLine("IMPAR");
+                Console.WriteLine($"NUMERO:{number} é IMPAR");
             }
                 Console.ReadKey();
         }

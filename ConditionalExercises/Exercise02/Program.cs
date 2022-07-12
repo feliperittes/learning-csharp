@@ -4,6 +4,7 @@
     {
         public static void Main(string[] args)
         {
+            Console.Write("Insira um numero: ");
             int number = int.Parse(Console.ReadLine());
 
             if (number < 0)
