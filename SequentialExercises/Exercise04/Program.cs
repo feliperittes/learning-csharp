@@ -4,8 +4,13 @@
     {
         public static void Main(string[] args)
         {
+            Console.Write("Insira o numero do funcionario: ");
             int number = int.Parse(Console.ReadLine());
+
+            Console.Write("Insira o numero de horas trabalhadas: ");
             double hoursWorked = double.Parse(Console.ReadLine());
+
+            Console.Write("Insira o valor recebido por hora trabalhada: ");
             double valueHoursWorked = double.Parse(Console.ReadLine());
 
             Console.WriteLine($"NUMBER = {number}");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj": {}
+    "C:\\DEV\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj": {}
   },
   "projects": {
-    "C:\\dev\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj": {
+    "C:\\DEV\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj",
+        "projectUniqueName": "C:\\DEV\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj",
         "projectName": "Exercise05",
-        "projectPath": "C:\\dev\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj",
+        "projectPath": "C:\\DEV\\AprendendoCsharp\\SequentialExercises\\Exercise05\\Exercise05.csproj",
         "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\AprendendoCsharp\\SequentialExercises\\Exercise05\\obj\\",
+        "outputPath": "C:\\DEV\\AprendendoCsharp\\SequentialExercises\\Exercise05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
