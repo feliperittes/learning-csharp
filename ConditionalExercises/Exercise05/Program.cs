@@ -9,23 +9,32 @@
             int code = int.Parse(array[0]);
             int quantity = int.Parse(array[1]);
 
+            double hotDog = 4.00;
+            double xSalad = 4.50;
+            double xBacon = 5.00;
+            double simpleToast = 2.00;
+            double softDrink = 1.50;
+
+
             if (code == 1)
             {
-                double hotDog = 4.00;
                 Console.WriteLine($"Total a pagar: {(hotDog * quantity).ToString("C")}");
             }
             else if (code == 2)
             {
-                double xSalad = 4.50;
                 Console.WriteLine($"Total a pagar: {(xSalad * quantity).ToString("C")}");
-            }else if (code == 3)
+            }
+            else if (code == 3)
             {
-                double xBacon = 5.00;
                 Console.WriteLine($"Total a pagar: {(xBacon * quantity).ToString("C")}");
-            }else if (code == 4)
+            }
+            else if (code == 4)
             {
-                double simpleToast = 2.00;
                 Console.WriteLine($"Total a pagar: {(simpleToast * quantity).ToString("C")}");
+            }
+            else
+            {
+                Console.WriteLine($"Total a pagar: {(softDrink * quantity).ToString("C")}");
             }
 
             Console.ReadKey();
