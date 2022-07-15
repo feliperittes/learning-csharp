@@ -30,13 +30,12 @@
             Console.Write("\n-------------------------Fim Do Programa-------------------------");
             Console.ReadKey();
         }
+
         static void FirstMode()
         {
             string firstName, secondName, thirdName, quarterName, auxiliary;
 
-            Console.WriteLine("");
-
-            Console.Write("Insira o nome #1: ");
+            Console.Write("\nInsira o nome #1: ");
             firstName = Console.ReadLine();
 
             Console.Write("Insira o nome #2: ");
@@ -68,15 +67,11 @@
             Console.WriteLine(quarterName);
         }
 
-
         static void SecondMode()
         {
             string firstName, secondName, thirdName, quarterName;
 
-
-            Console.WriteLine();
-
-            Console.Write("Insira o nome #1: ");
+            Console.Write("\nInsira o nome #1: ");
             firstName = Console.ReadLine();
 
             Console.Write("Insira o nome #2: ");
