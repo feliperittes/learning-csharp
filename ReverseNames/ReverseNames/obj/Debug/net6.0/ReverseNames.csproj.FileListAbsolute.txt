@@ -1,0 +1,15 @@
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\bin\Debug\net6.0\ReverseNames.exe
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\bin\Debug\net6.0\ReverseNames.deps.json
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\bin\Debug\net6.0\ReverseNames.runtimeconfig.json
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\bin\Debug\net6.0\ReverseNames.dll
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\bin\Debug\net6.0\ReverseNames.pdb
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.csproj.AssemblyReference.cache
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.AssemblyInfoInputs.cache
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.AssemblyInfo.cs
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.csproj.CoreCompileInputs.cache
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.dll
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\refint\ReverseNames.dll
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.pdb
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ReverseNames.genruntimeconfig.cache
+C:\dev\AprendendoCsharp\ReverseNames\ReverseNames\obj\Debug\net6.0\ref\ReverseNames.dll
