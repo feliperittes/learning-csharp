@@ -17,7 +17,7 @@
                 Console.Write("Insira a senha novamente: ");
                 insertPassword = Console.ReadLine();
             }
-            Console.WriteLine("\nSenha correta!\nAcesso Permitido!");
+            Console.WriteLine("\nAcesso Liberado!\nSenha correta!");
 
             Console.ReadKey();
         }
