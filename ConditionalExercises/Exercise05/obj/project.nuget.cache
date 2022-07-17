@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OQ+yBssD4pbhFngOKGrZR4+2grfwhsg1qgpwPvuwCcbyegZXeyLDut7pgLQ8y9JBoLKVhluibPX8XOMZ9+l0A==",
+  "dgSpecHash": "csKydd09aW03U6hFqR+HSNSg2HPDi1iE4AeNMrGZ52q1Bo5EuQ4YJSJtf2ZNZr69OoTTcBCqUqxtEoLm6TsPlw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise05\\Exercise05.csproj",
+  "projectFilePath": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise05\\Exercise05.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise01\\Exercise01.csproj",
+      "projectUniqueName": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise01\\Exercise01.csproj",
       "projectName": "Exercise01",
-      "projectPath": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise01\\Exercise01.csproj",
+      "projectPath": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise01\\Exercise01.csproj",
       "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise01\\obj\\",
+      "outputPath": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

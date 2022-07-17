@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj": {}
+    "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj": {}
   },
   "projects": {
-    "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj": {
+    "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj",
+        "projectUniqueName": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj",
         "projectName": "Exercise04",
-        "projectPath": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj",
+        "projectPath": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise04\\Exercise04.csproj",
         "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\AprendendoCsharp\\ConditionalExercises\\Exercise04\\obj\\",
+        "outputPath": "C:\\dev\\LearnCsharp\\ConditionalExercises\\Exercise04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
