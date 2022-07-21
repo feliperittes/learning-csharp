@@ -18,7 +18,7 @@
                     firstArray[line, column] = int.Parse(Console.ReadLine());
                 }
             }
-
+            
             Console.WriteLine("\nPreencher a matriz #2: ");
 
             for (int line = 0; line < 3; line++)
@@ -31,6 +31,7 @@
             }
 
             Console.WriteLine("\nResultado da matriz #1 x #2");
+
             result[0, 0] = (firstArray[0, 0] * secondArray[0, 0]) + (firstArray[0, 1] * secondArray[1, 0]) + (firstArray[0, 2] * secondArray[2, 0]);
             result[1, 0] = (firstArray[1, 0] * secondArray[0, 0]) + (firstArray[1, 1] * secondArray[1, 0]) + (firstArray[1, 2] * secondArray[2, 0]);
             result[0, 1] = (firstArray[0, 0] * secondArray[0, 1]) + (firstArray[0, 1] * secondArray[1, 1]) + (firstArray[0, 2] * secondArray[2, 1]);
