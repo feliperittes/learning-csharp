@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj": {}
+    "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj": {}
   },
   "projects": {
-    "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj": {
+    "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj",
+        "projectUniqueName": "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj",
         "projectName": "Exercise02",
-        "projectPath": "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj",
+        "projectPath": "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise02\\Exercise02.csproj",
         "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise02\\obj\\",
+        "outputPath": "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

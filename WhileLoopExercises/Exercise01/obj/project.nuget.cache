@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4dRO6zmNGKa4jutTUBIkapYP5V60nnWtll+YOZvode7jYhR1RVbQr0DVKZtaI2kg8QHRGlkqVEJPkQUSOv3Eg==",
+  "dgSpecHash": "8i/Tfp8zM5kXsLJ501L+A3oNjesthwxwrQF2UrstELjTAj/IOLLx0g+0MsOLZFUkjrKRgR00a8Jj9vmhS/SD1Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\LearnCsharp\\WhileLoopExercises\\Exercise01\\Exercise01.csproj",
+  "projectFilePath": "C:\\dev\\learn-csharp\\WhileLoopExercises\\Exercise01\\Exercise01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
