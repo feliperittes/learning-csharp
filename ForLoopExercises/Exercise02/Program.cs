@@ -23,8 +23,9 @@
                     count_out++;
                 }
             }
-            Console.WriteLine($"\n{count_in} numero(s) dentro.");
-            Console.WriteLine($"{count_out} numero(s) fora.");
+            Console.WriteLine("Invervalo [10,20]");
+            Console.WriteLine($"\n{count_in} numero(s) dentro do intervalo.");
+            Console.WriteLine($"{count_out} numero(s) fora do intervalo.");
             Console.ReadKey();
         }
     }
