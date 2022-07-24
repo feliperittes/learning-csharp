@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise01\\Exercise01.csproj": {}
+    "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise03\\Exercise03.csproj": {}
   },
   "projects": {
-    "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise01\\Exercise01.csproj": {
+    "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise03\\Exercise03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise01\\Exercise01.csproj",
-        "projectName": "Exercise01",
-        "projectPath": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise01\\Exercise01.csproj",
+        "projectUniqueName": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise03\\Exercise03.csproj",
+        "projectName": "Exercise03",
+        "projectPath": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise03\\Exercise03.csproj",
         "packagesPath": "C:\\Users\\feliperittes\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise01\\obj\\",
+        "outputPath": "C:\\dev\\learn-csharp\\ForLoopExercises\\Exercise03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
