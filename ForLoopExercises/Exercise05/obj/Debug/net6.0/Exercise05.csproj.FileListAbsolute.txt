@@ -1,0 +1,15 @@
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\bin\Debug\net6.0\Exercise05.exe
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\bin\Debug\net6.0\Exercise05.deps.json
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\bin\Debug\net6.0\Exercise05.runtimeconfig.json
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\bin\Debug\net6.0\Exercise05.dll
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\bin\Debug\net6.0\Exercise05.pdb
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.csproj.AssemblyReference.cache
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.AssemblyInfoInputs.cache
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.AssemblyInfo.cs
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.csproj.CoreCompileInputs.cache
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.dll
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\refint\Exercise05.dll
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.pdb
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\Exercise05.genruntimeconfig.cache
+C:\dev\learn-csharp\ForLoopExercises\Exercise05\obj\Debug\net6.0\ref\Exercise05.dll
